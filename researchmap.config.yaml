@@ -4,8 +4,8 @@ department_name: "College of Computing"
 color_theme: "#2a7a72"
 
 # LLM configuration
-llm_provider: "gemini"
-llm_api_key_env: "GEMINI_API_KEY"
+llm_provider: "openai"
+llm_api_key_env: "OPENAI_API_KEY"
 
 # Scraper settings
 researchers_file: "researchers.csv"
